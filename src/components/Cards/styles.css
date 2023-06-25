@@ -1,0 +1,6 @@
+.cards-flex {
+    display:flex;
+    justify-content: flex-start;
+    align-items: wrap;
+    padding: 1 rem 3rem;
+}
