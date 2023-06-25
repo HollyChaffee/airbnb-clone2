@@ -1,6 +1,13 @@
 .cards-flex {
     display:flex;
     justify-content: flex-start;
-    align-items: wrap;
+    align-items: center;
+    flex-wrap: wrap;
     padding: 1 rem 3rem;
+}
+
+.card-img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
 }

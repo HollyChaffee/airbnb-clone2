@@ -1,8 +1,11 @@
 import React from "react";
 import "./styles.css";
+import hotel from "../../assets/hotels/hotel-1.jpeg";
 
-function Cards() {
-  return <div className="cards-flex"></div>;
+function Card({ card }) {
+  return <div>
+    <img src={hotel} className="card-img" />
+  </div>;
 }
 
-export default Cards;
+export default Card;
