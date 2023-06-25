@@ -8,6 +8,14 @@ function Cards() {
   return (
     <div className="cards-flex">
       <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
     </div>
   );
 }
