@@ -1,15 +1,15 @@
 export const list2 = [
   {
     rating: "4",
-    desc: "Beach and Sunset Views",
+    desc: "On Big Stone Beach",
     imgSrc: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU",
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
       "https://www.travelandleisure.com/thmb/BJupPeakYV7RY_vQQnmvrKAl7LU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/soneva-jani-sunset-view-maldives-SONEVA0421-74b37591d80441ce87831a41da518e49.jpg",
       "https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/02/178793622.jpg?resize=1024%2C683",
     ],
-    price: "20000",
-    date: "15-20 May",
+    price: "275",
+    date: "Sep 5-10",
     title: "Hotel 0000",
   },
   {
@@ -19,7 +19,7 @@ export const list2 = [
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU",
     ],
-    price: "30000",
+    price: "275",
     date: "25-20 May",
     title: "Hotel 3",
   },
@@ -36,7 +36,7 @@ export const list2 = [
   },
   {
     rating: "4",
-    desc: "Beach and Sunset Views",
+    desc: "On Big Stone Beach",
     imgSrc: [
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
       "https://www.travelandleisure.com/thmb/BJupPeakYV7RY_vQQnmvrKAl7LU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/soneva-jani-sunset-view-maldives-SONEVA0421-74b37591d80441ce87831a41da518e49.jpg",
@@ -51,52 +51,52 @@ export const list2 = [
 
 export const list = [
   {
-    rating: "4",
-    desc: "Beach and Sunset Views",
+    rating: "New",
+    desc: "On Big Stone Beach",
     imgSrc: [
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
       "https://www.travelandleisure.com/thmb/BJupPeakYV7RY_vQQnmvrKAl7LU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/soneva-jani-sunset-view-maldives-SONEVA0421-74b37591d80441ce87831a41da518e49.jpg",
       "https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/02/178793622.jpg?resize=1024%2C683",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU",
     ],
-    price: "20000",
-    date: "15-20 May",
-    title: "Hotel 1",
+    price: "275",
+    date: "Sep 5-10",
+    title: "Milford, Delaware",
   },
   {
-    rating: "4",
-    desc: "Beach and Sunset Views",
+    rating: "5.0",
+    desc: "2 min walk to Maryland Beach",
     imgSrc: [
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU",
     ],
-    price: "30000",
-    date: "25-20 May",
-    title: "Hotel 3",
+    price: "359",
+    date: "Jul 9-14",
+    title: "Ocean City, Maryland",
   },
   {
-    rating: "4",
-    desc: "Beach and Sunset Views",
+    rating: "4.89",
+    desc: "On Rehoboth Beach",
     imgSrc: [
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU",
     ],
-    price: "45000",
-    date: "10-20 Oct",
-    title: "Hotel 3",
+    price: "450",
+    date: "Aug 20-25",
+    title: "Rehoboth, Delaware",
   },
   {
-    rating: "4",
-    desc: "Beach and Sunset Views",
+    rating: "",
+    desc: "On Sunray Beach",
     imgSrc: [
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
       "https://www.travelandleisure.com/thmb/BJupPeakYV7RY_vQQnmvrKAl7LU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/soneva-jani-sunset-view-maldives-SONEVA0421-74b37591d80441ce87831a41da518e49.jpg",
       "https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/02/178793622.jpg?resize=1024%2C683",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU",
     ],
-    price: "20000",
-    date: "15-20 May",
-    title: "Hotel 1",
+    price: "4,750",
+    date: "July 9-14",
+    title: "Villas, New Jersey",
   },
   {
     rating: "4",
@@ -214,3 +214,4 @@ export const list = [
     title: "Hotel 1",
   },
 ];
+export default list2;

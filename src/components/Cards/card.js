@@ -12,7 +12,7 @@ function Card({ card }) {
     <div className="card-box">
       <Swiper
         slidesPerView={1}
-        spaceBetween={15}
+        spaceBetween={0}
         loop={true}
         mousewheel={true}
         cssMode={true}
@@ -22,7 +22,7 @@ function Card({ card }) {
       >
         {card.imgSrc.map((src, i) => (
           <SwiperSlide key={i}>
-            <img src={src} className="card-img" />
+            <img src={src} className="card-img" alt="travel pictures"/>
           </SwiperSlide>
         ))}
       </Swiper>
@@ -36,7 +36,7 @@ function Card({ card }) {
       <p style={{ margin: 0, color: "var(--font-grey)" }}>{card.desc}</p>
       <p style={{ margin: 0, color: "var(--font-grey)" }}>{card.date}</p>
       <p style={{ margin: "0.2rem", fontSize: "1rem", color: "var(--black" }}>
-        <span style={{ fontWeight: "600" }}>₹{card.price}</span> night
+        <span style={{ fontWeight: "600" }}>${card.price}</span> night
       </p>
     </div>
   );

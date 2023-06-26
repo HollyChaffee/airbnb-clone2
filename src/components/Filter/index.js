@@ -15,7 +15,7 @@ function Filter() {
             setSelectedFilter(i);
           }}
         >
-          <img src={item.imgSrc} className="links-img" />
+          <img src={item.imgSrc} className="links-img" alt="icon pictures"/>
           <p
             className={`links-label ${
               i === selectedFilter && "selected-label"
