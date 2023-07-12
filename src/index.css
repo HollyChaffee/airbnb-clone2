@@ -3,7 +3,7 @@
 :root {
   --black: #000;
   --grey: #ddd;
-  --font-grey: #787878;
+  --font-grey: #606060;
   --white: #ffffff;
   --theme: #ff385c;
   --light-grey: #f7f7f7;
@@ -11,6 +11,7 @@
 
 body {
   margin: 0;
+  
   font-family: "Nunito Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
